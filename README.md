@@ -11,7 +11,9 @@ The Thrifty Microbiome:The Role of the Gut Microbiota in Obesity in the Amish
 # Sample body site:
 
 human feces
-# Data Description: three age- and sex-matched groups from the Old Order Amish.
+# Data Description:
+three age- and sex-matched groups from the Old Order Amish.
+
 (1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations
 
 (2)	50 obese subjects (BMI > 30kg/m2) without any dysmetabolism manifestation
