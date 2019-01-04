@@ -24,6 +24,8 @@ three age- and sex-matched groups from the Old Order Amish.
 
 (3)	50 nonobese subjects (BMI < 25kg/m2) without any features of metabolic syndrome 
 
+# metadata
+https://www.ncbi.nlm.nih.gov/gap?term=2[s_discriminator]%20AND%20(phs000258.v2.p1[s_ancestor]%20AND%20(2[s_discriminator]%20OR%20(1[s_discriminator]%20AND%201[s_has_variable])))&report=SVariables
 
 # Reference:
 Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.
