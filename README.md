@@ -30,6 +30,8 @@ https://www.ncbi.nlm.nih.gov/gap?term=2[s_discriminator]%20AND%20(phs000258.v2.p
 # Reference:
 Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#
+
 http://precedings.nature.com/documents/4957/version/1/files/npre20104957-1.pdf
 
 # BCBI-runinfo
