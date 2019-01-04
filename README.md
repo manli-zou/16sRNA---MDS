@@ -6,11 +6,11 @@ Human microbiome project
 The Thrifty Microbiome:The Role of the Gut Microbiota in Obesity in the Amish
 
 # Reads type: 
-16sRNA sequencing (454 pyrosequencing)
+16sRNA sequencing (454 pyrosequencing) ： 16s rRNA V2 region
 
 # Sample body site:
-
 human feces
+
 # Data Description:
 three age- and sex-matched groups from the Old Order Amish.
 
@@ -25,5 +25,8 @@ three age- and sex-matched groups from the Old Order Amish.
 Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.
 
 http://precedings.nature.com/documents/4957/version/1/files/npre20104957-1.pdf
+
+# BCBI-runinfo
+https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP002465
 
 
