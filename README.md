@@ -1,9 +1,12 @@
 
 # Source of data: 
 Human microbiome project 
+
 https://www.hmpdacc.org/hmp/HMMCP/#data
 
 # Paper related: 
+HMP_GutObesity
+
 The Thrifty Microbiome:The Role of the Gut Microbiota in Obesity in the Amish
 
 # Reads type: 
