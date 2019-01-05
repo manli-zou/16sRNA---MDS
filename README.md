@@ -28,7 +28,13 @@ three age- and sex-matched groups from the Old Order Amish.
 Sequences were binned and trimmed, using the sample-specific barcode sequences, using mothur and the following criteria:
 (i) sequence length > 199 base; < 501 base
 
-Taxonomy assignments were done by kmer-based
+Taxonomy assignments were done by kmer-based naive-Bayes classification via mothur classify.seqs applied to the GreenGenes reference sequences and taxonomy, with a confidence cutoff of 0.5. 
+
+Operational taxonomic units (OTUs) were determined using mothur by 
+
+(i) alignment to the SILVA 16S rRNA database
+
+(ii) clustering by bacterial family, and a distance cutoff of 0.03
 
 # metadata
 https://www.ncbi.nlm.nih.gov/gap?term=2[s_discriminator]%20AND%20(phs000258.v2.p1[s_ancestor]%20AND%20(2[s_discriminator]%20OR%20(1[s_discriminator]%20AND%201[s_has_variable])))&report=SVariables
