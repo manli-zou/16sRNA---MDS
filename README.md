@@ -24,16 +24,6 @@ three age- and sex-matched groups from the Old Order Amish.
 # reads processing
 Scripts are shown in the profile script
 
-general description : sequences were binned and trimmed, using the sample-specific barcode sequences, using mothur and the following criteria:sequence length > 199 base; < 501 base
-
-Taxonomy assignments were done by kmer-based naive-Bayes classification via mothur classify.seqs applied to the GreenGenes reference sequences and taxonomy, with a confidence cutoff of 0.5. 
-
-Operational taxonomic units (OTUs) were determined using mothur by 
-
-(i) alignment to the SILVA 16S rRNA database
-
-(ii) clustering by bacterial family, and a distance cutoff of 0.03
-
 # files for statistical analysis
 (1)Now available 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
 
