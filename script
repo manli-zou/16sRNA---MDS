@@ -54,7 +54,10 @@ while read line
 do
 echo "/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/mothur /ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/newbatch/$line" >> 1082qsub.sh
 done < 22prefix
-############################################################### end
+############################################################### end 
+
+script for otu_generation
+while 
 
 
 
