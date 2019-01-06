@@ -31,7 +31,7 @@ Scripts are shown in the profile script
 
 I. file 16Smetadata
 
-II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
+II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml  (reference link)
 
 (3)ongoing activity
 
@@ -41,10 +41,10 @@ otu profile generation & left tree files
 # reference:
 Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/# paper link
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#  (paper link)
 
-https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP002465 NCBI run link
+https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP002465 (NCBI run link)
 
-https://www.ncbi.nlm.nih.gov/gap?term=2[s_discriminator]%20AND%20(phs000258.v2.p1[s_ancestor]%20AND%20(2[s_discriminator]%20OR%20(1[s_discriminator]%20AND%201[s_has_variable])))&report=SVariables metadata link
+https://www.ncbi.nlm.nih.gov/gap?term=2[s_discriminator]%20AND%20(phs000258.v2.p1[s_ancestor]%20AND%20(2[s_discriminator]%20OR%20(1[s_discriminator]%20AND%201[s_has_variable])))&report=SVariables (metadata link)
 
 
