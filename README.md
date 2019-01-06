@@ -26,9 +26,9 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ## Files for statistical analysis
 **(1)files information**
 
-./data_for_analysis/
+./data_for_analysis/treefile
 
-- 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
+- 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip (>25M,thus splitted)
 
 - 944 out of all 1082 samples otu profiles
 
