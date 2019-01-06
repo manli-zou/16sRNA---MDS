@@ -22,6 +22,8 @@ three age- and sex-matched groups from the Old Order Amish.
 (3)	50 nonobese subjects (BMI < 25kg/m2) without any features of metabolic syndrome 
 
 # reads processing
+scripts are shown in the profile script
+
 Sequences were binned and trimmed, using the sample-specific barcode sequences, using mothur and the following criteria:
 
 (i) sequence length > 199 base; < 501 base
