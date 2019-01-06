@@ -4,11 +4,6 @@ Human microbiome project
 
 https://www.hmpdacc.org/hmp/HMMCP/#data
 
-# Paper related: 
-HMP_GutObesity
-
-The Thrifty Microbiome:The Role of the Gut Microbiota in Obesity in the Amish
-
 # Reads type: 
 16sRNA sequencing (454 pyrosequencing) ： 16s rRNA V2 region
 
@@ -37,12 +32,19 @@ Operational taxonomic units (OTUs) were determined using mothur by
 
 (ii) clustering by bacterial family, and a distance cutoff of 0.03
 
+# files
+Now available 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
+
+covariates information:
+
+(1)file 16Smetadata
+
+(2)ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
+
 # Reference:
 Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#
-
-http://precedings.nature.com/documents/4957/version/1/files/npre20104957-1.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/# paper link
 
 https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP002465 NCBI run link
 
