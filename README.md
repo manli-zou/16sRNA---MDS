@@ -17,7 +17,7 @@
 
 <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
 
-**three age- and sex-matched groups from the Old Order Amish.**
+**three age- and sex-matched groups from the Old Order Amish.**  (problematic)
 
 (1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations
 
