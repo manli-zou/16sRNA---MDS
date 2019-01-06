@@ -14,7 +14,6 @@ human feces
 
 
 # data description:
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/# paper link
 
 three age- and sex-matched groups from the Old Order Amish.
 
