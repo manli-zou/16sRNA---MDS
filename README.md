@@ -42,12 +42,10 @@ three age- and sex-matched groups from the Old Order Amish.
 
 *II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml  (reference link)*
 
-### Previous data exploration 
+### References:
 *Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.*
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#  (paper link)
-
-### Other references:
 
 https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP002465 (NCBI run link)
 
