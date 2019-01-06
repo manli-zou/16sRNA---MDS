@@ -6,9 +6,6 @@ University of Michigan
 pschloss@umich.edu
 http://www.mothur.org
 
-Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing
-and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
-
 # script for tree generation
 
 `while read line
