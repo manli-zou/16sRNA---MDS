@@ -1,6 +1,6 @@
 
 ### Source of data
-HMP : data download website https://www.hmpdacc.org/hmp/HMMCP/#data
+HMP :  https://www.hmpdacc.org/hmp/HMMCP/#data
 
 
 ### Reads type 
