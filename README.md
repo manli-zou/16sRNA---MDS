@@ -1,4 +1,4 @@
-# MGS-16S rRNA
+# MDS-16S rRNA
 
 
 ## Data description
