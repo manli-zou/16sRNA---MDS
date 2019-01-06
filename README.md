@@ -1,17 +1,17 @@
 
-### Source of data: 
+### Source of data
 HMP : data download website https://www.hmpdacc.org/hmp/HMMCP/#data
 
 
-### Reads type: 
+### Reads type 
 16s rRNA V2 region sequencing (454 pyrosequencing) 
 
 
-### Sample body site:
+### Sample body site
 human feces
 
 
-## Data description:
+## Data description
 
 three age- and sex-matched groups from the Old Order Amish.
 
