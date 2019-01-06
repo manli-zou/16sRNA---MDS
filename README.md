@@ -5,7 +5,7 @@ Human microbiome project
 https://www.hmpdacc.org/hmp/HMMCP/#data
 
 # reads type: 
-16sRNA sequencing (454 pyrosequencing) ： 16s rRNA V2 region
+16s rRNA V2 region sequencing (454 pyrosequencing) 
 
 # sample body site:
 human feces
