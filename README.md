@@ -6,11 +6,11 @@
 
 [reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
 
-sample body site : <table><tr><td bgcolor=yellow>human feces</td></tr></table>
+sample body site : <font color=#0099ff>human feces
 
-reads type : <table><tr><td bgcolor=yellow>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
+reads type : <font color=#0099ff>16s rRNA V2 region sequencing (454 pyrosequencing)
 
-**three age- and sex-matched groups from the Old Order Amish.**
+<table><tr><td bgcolor=yellow>**three age- and sex-matched groups from the Old Order Amish.**</td></tr></table>
 
 (1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations
 
