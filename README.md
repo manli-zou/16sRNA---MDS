@@ -6,11 +6,12 @@
 
 [reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
 
-sample body site : <font color=#0099ff>human feces
+sample body site : <table><tr><td bgcolor=#D1EEEE>human feces</td></tr></table>
 
-reads type : <font color=#0099ff>16s rRNA V2 region sequencing (454 pyrosequencing)
 
-<table><tr><td bgcolor=yellow>**three age- and sex-matched groups from the Old Order Amish.**</td></tr></table>
+reads type : <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
+
+**three age- and sex-matched groups from the Old Order Amish.**
 
 (1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations
 
@@ -24,8 +25,9 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ******************************
 
 ## Files for statistical analysis
-### ./data_for_analysis/
 **(1)files information**
+
+./data_for_analysis/
 
 - 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
 
@@ -37,7 +39,8 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 
 - metadata linkage
 ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
-******************************************
+***********************************
+
 ### References:
 1. *Fraser-Liggett C M, Shuldiner A R. The Thrifty Microbiome: The Role of the Gut Microbiota in Obesity in the Amish[J]. 2010.*
 
