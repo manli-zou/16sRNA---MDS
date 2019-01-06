@@ -33,7 +33,8 @@ I. file 16Smetadata
 
 II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
 
-(3)ongoing 
+(3)ongoing activity
+
 otu profile generation & left tree files 
 
 
