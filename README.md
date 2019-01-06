@@ -12,11 +12,11 @@ human feces
 
 **three age- and sex-matched groups from the Old Order Amish.**
 
-*(1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations*
-
-*(2)	50 obese subjects (BMI > 30kg/m2) without any dysmetabolism manifestation*
-
-*(3)	50 nonobese subjects (BMI < 25kg/m2) without any features of metabolic syndrome* 
+(1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations
+******
+(2)	50 obese subjects (BMI > 30kg/m2) without any dysmetabolism manifestation
+******
+(3)	50 nonobese subjects (BMI < 25kg/m2) without any features of metabolic syndrome
 
 
 ## Sample processing
