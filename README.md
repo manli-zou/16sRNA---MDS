@@ -2,7 +2,7 @@
 # source of data: 
 Human microbiome project 
 
-https://www.hmpdacc.org/hmp/HMMCP/#data
+data download website https://www.hmpdacc.org/hmp/HMMCP/#data
 
 
 # reads type: 
@@ -30,17 +30,15 @@ Scripts are shown in the profile script
 
 
 # files for statistical analysis
-(1)Now available 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
+(1) 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
+
+944 out of all 1082 samples otu profiles
 
 (2)covariates information:
 
 I. file 16Smetadata
 
 II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml  (reference link)
-
-(3)ongoing activity
-
-otu profile generation
 
 
 # reference:
