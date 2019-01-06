@@ -1,8 +1,6 @@
 
 ### Source of data: 
-Human microbiome project 
-
-data download website https://www.hmpdacc.org/hmp/HMMCP/#data
+HMP : data download website https://www.hmpdacc.org/hmp/HMMCP/#data
 
 
 ### Reads type: 
