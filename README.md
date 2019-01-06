@@ -23,7 +23,7 @@ three age- and sex-matched groups from the Old Order Amish.
 
 
 ## Sample processing
-Sample reads are processed using **mothur** and **scripts** are showed
+Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 
 
 ## Files for statistical analysis
