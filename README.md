@@ -40,7 +40,7 @@ II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_vari
 
 (3)ongoing activity
 
-otu profile generation & left tree files 
+otu profile generation
 
 
 # reference:
