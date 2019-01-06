@@ -10,7 +10,7 @@ human feces
 
 [reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
 
-##three age- and sex-matched groups from the Old Order Amish.##
+**three age- and sex-matched groups from the Old Order Amish.**
 
 *(1)	50 obese subjects (BMI >30 kg/m2) with one or more dysmetabolic manifestations*
 
