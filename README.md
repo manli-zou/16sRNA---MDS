@@ -3,7 +3,7 @@
 ## Biological background
 Obesity, the accumulation of excess body fat has a negative impact on morbidity, mortality, and quality of life through its complications, which include cardiovascular disease, type 2 diabetes, osteoarthritis, and certain cancers.The etiology of obesity and its metabolic complications, including hyperlipidemia, hypertension, glucose intolerance and diabetes reflect the complex interactions of multiple genetic, behavioral, and environmental factors. Great inter-individual variation is apparent in the propensity toward obesity, the location where excess fat is deposited, and the extent to which this results in metabolic derangements and adverse health outcomes.
 
-To offer better treatment and prevention modalities, deeper understanding of the etiology of obesity is needed. Novel lines of investigation implicate chronic inflammation and the gut microbiome in the development of obesity and its metabolic complications. To explore the possible dysbiosis of gut microbiota in obesity and its metabolic complications in humans, we studied Old Order Amish subjects from Lancaster County, Pennsylvania.
+To explore the possible dysbiosis of gut microbiota in obesity and its metabolic complications in humans, we studied Old Order Amish subjects from Lancaster County, Pennsylvania.
 *************************************
 
 ## Data description
