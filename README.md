@@ -24,8 +24,8 @@ three age- and sex-matched groups from the Old Order Amish.
 *(3)	50 nonobese subjects (BMI < 25kg/m2) without any features of metabolic syndrome* 
 
 
-## Reads processing
-**Scripts are showned** using **mothur** 
+## Sample processing
+Sample reads are processed using **mothur** and **scripts** are showed
 
 
 ## Files for statistical analysis
