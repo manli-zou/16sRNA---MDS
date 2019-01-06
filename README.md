@@ -6,10 +6,9 @@
 
 [reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
 
-sample body site : <table><tr><td bgcolor=#D1EEEE>human feces</td></tr></table>
+<table><tr><td bgcolor=#D1EEEE>human feces</td></tr></table>
 
-
-reads type : <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
+<table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
 
 **three age- and sex-matched groups from the Old Order Amish.**
 
