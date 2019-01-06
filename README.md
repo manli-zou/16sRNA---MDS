@@ -1,5 +1,5 @@
 # MDS-16S rRNA
-******************************
+
 ## Ecological background
 
 ## Data description
