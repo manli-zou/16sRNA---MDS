@@ -9,55 +9,24 @@ http://www.mothur.org
 Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing
 and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
 
-# script
+# script for tree generation
 
-Step1
-
-while read line
+`while read line
 do
-echo "/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/mothur \"set.dir(output=\"/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/asc/zh/16S\");
-sffinfo(sff=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/data/$line.sff, flow=T);
-trim.flows(oligos=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/oligosfile/$line.oligos,processors=2);
-shhh.flows(file=$line.flow.files, processors=2);trim.seqs(flip=T, minlength=199, maxlength=501, maxhomop=8, bdiffs=1, processors=2);
-unique.seqs(name=$line);align.seqs(template=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/asc/zh/16S/silva.nr_v132.align);
-screen.seqs(processors=2);filter.seqs(processors=2);unique.seqs(name=$line);pre.cluster(name=$line.unique.filter);
-chimera.uchime(reference=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/asc/zh/16S/silva.nr_v132.align);remove.seqs();
-dist.seqs(cutoff=0.03,processors=2);
-clearcut(DNA=t)\"" >> cluster.sh
-done < prefix
+echo "/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/mothur\nset.dir(output=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/asc/zh/16S)\n
+sffinfo(sff=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/data/$line.sff, flow=T)\n
+trim.flows(oligos=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/oligosfile/$line.oligos,processors=2)\n
+shhh.flows(file=$line.flow.files, processors=2)\ntrim.seqs(flip=T, minlength=199, maxlength=501, maxhomop=8, bdiffs=1, processors=2);
+unique.seqs(name=$line)\nalign.seqs(template=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/asc/zh/16S/silva.nr_v132.align);
+screen.seqs(processors=2)\nfilter.seqs(processors=2);unique.seqs(name=$line)\npre.cluster(name=$line.unique.filter)\n
+chimera.uchime(reference=/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/asc/zh/16S/silva.nr_v132.align)\nremove.seqs()\n
+dist.seqs(cutoff=0.03,processors=2)\nclearcut(DNA=t)" > $line.sh
+done < prefix`
 
-Step2
-
-while read -u1 line1 && read -u2 line2
-do
-echo "$line1" > $line2.file
-done 1<cluster.sh 2<prefix
-
-Step3
-
-while read -u1 line1 && read -u2 line2
-do
-echo "sed 's/;/\n/g' $line1 > $line2\_batch" >> split.sh
-done 1<2prefix 2<prefix
-
-Step4 
-
-while read line
-do
-echo "sed 's/\/ldfssz1\/ST_META\/F15HQSQS2166_CRC_JZY\/jiezhuye\/ibd\/16S\/mothur//g' $line\_batch > $line\_1batch &&
-sed 's/\"//g' $line\_1batch > $line\_2batch" >> clean.sh
-done < prefix
-
-Step5
-
-while read line
-do
-echo "/ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/mothur /ldfssz1/ST_META/F15HQSQS2166_CRC_JZY/jiezhuye/ibd/16S/newbatch/$line" >> 1082qsub.sh
-done < 22prefix
 ############################################################### end 
 
 script for otu_generation
-while 
+`cluster(column = .dist, count=.name)`
 
 
 
