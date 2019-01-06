@@ -26,7 +26,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ## Files for statistical analysis
 **files information**
 
-./data_for_analysis/treefile
+./data_for_analysis/
 
 (1) 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip (>25M,thus splitted)
 
