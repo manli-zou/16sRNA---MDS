@@ -28,7 +28,8 @@ three age- and sex-matched groups from the Old Order Amish.
 **Scripts are showned** using **mothur** 
 
 
-## Files for statistical analysis #### ./data_for_analysis/
+## Files for statistical analysis
+#### ./data_for_analysis/
 **(1) data file information**
 
 *I. 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip*
