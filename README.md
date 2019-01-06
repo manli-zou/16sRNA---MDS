@@ -4,11 +4,14 @@ Human microbiome project
 
 https://www.hmpdacc.org/hmp/HMMCP/#data
 
+
 # reads type: 
 16s rRNA V2 region sequencing (454 pyrosequencing) 
 
+
 # sample body site:
 human feces
+
 
 # data description:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/# paper link
@@ -21,8 +24,10 @@ three age- and sex-matched groups from the Old Order Amish.
 
 (3)	50 nonobese subjects (BMI < 25kg/m2) without any features of metabolic syndrome 
 
+
 # reads processing
 Scripts are shown in the profile script
+
 
 # files for statistical analysis
 (1)Now available 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip
