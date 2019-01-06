@@ -24,19 +24,19 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ******************************
 
 ## Files for statistical analysis
-**(1)files information**
+**files information**
 
 ./data_for_analysis/treefile
 
-- 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip (>25M,thus splitted)
+(1) 944 out of all 1082 samples tree files : 1tree.zip & 2tree.zip & 3tree.zip (>25M,thus splitted)
 
-- 944 out of all 1082 samples otu profiles
+(2) 944 out of all 1082 samples otu profiles
 
-**(2)covariates information**
+**covariates information**
 
-- file 16Smetadata
+(1) file 16Smetadata
 
-- metadata linkage
+(2) metadata linkage
 ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
 ***********************************
 
