@@ -26,7 +26,7 @@ scripts are shown in the profile script
 
 Sequences were binned and trimmed, using the sample-specific barcode sequences, using mothur and the following criteria:
 
-(i) sequence length > 199 base; < 501 base
+sequence length > 199 base; < 501 base
 
 Taxonomy assignments were done by kmer-based naive-Bayes classification via mothur classify.seqs applied to the GreenGenes reference sequences and taxonomy, with a confidence cutoff of 0.5. 
 
@@ -41,9 +41,9 @@ Operational taxonomic units (OTUs) were determined using mothur by
 
 (2)covariates information:
 
-(I)file 16Smetadata
+I. file 16Smetadata
 
-(II)ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
+II.ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
 
 (3)ongoing 
 otu profile generation & left tree files 
