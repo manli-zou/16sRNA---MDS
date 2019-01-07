@@ -21,7 +21,7 @@
 
 112 were male and 198 were female
 
-!
+![covariates info](C:\Users\zoumanli\Desktop\covariates.png)
 *****************************
 
 ## Sample processing
