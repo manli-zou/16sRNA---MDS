@@ -13,7 +13,7 @@
 
 <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
 
-<table><tr><td bgcolor=#D1EEEE>Adult subjects from the Old Order Amish ：112 were male and 198 were female</td></tr></table>
+<table><tr><td bgcolor=#D1EEEE>310 Adult subjects from the Old Order Amish ：112 were male and 198 were female</td></tr></table>
 
 [paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
 
