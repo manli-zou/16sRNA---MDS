@@ -9,17 +9,15 @@
 *************************************
 
 ## Data description
-[paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
-
-[reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
-
 <table><tr><td bgcolor=#D1EEEE>human feces</td></tr></table>
 
 <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
 
-**310 adult subjects from the Old Order Amish.**  
+<table><tr><td bgcolor=#D1EEEE>310 Adult subjects from the Old Order Amish ：112 were male and 198 were female</td></tr></table>
 
-112 were male and 198 were female
+[paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
+
+[reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
 
 ![covariates info](C:\Users\zoumanli\Desktop\covariates.png)
 *****************************
@@ -29,7 +27,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ******************************
 
 ## Files for statistical analysis
-**files information**
+### files information
 
 ./data_for_analysis/
 
@@ -37,12 +35,12 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 
 (2) 175 out of all 310 samples otu profiles
 
-**covariates information**
+### covariates information
 
 (1) ./data_for_analysis/16Smetadata
 
 (2) Physiological indicators ： **age sex BMI SBP DBP TG CHL HDL etc.**
-ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
+*ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml*
 ***********************************
 
 ### References:
@@ -50,6 +48,8 @@ ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variabl
 
 2. *Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing
 and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.*
-
-
+**************************************
+**************************************
+### OUR WORK AIM
+http://www.rpubs.com/schifferl/HMP16SData
 
