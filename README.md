@@ -9,17 +9,17 @@
 *************************************
 
 ## Data description
-[paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
-
-[reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
-
 <table><tr><td bgcolor=#D1EEEE>human feces</td></tr></table>
 
 <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
 
 **310 adult subjects from the Old Order Amish.**  
 
-112 were male and 198 were female
+**112 were male and 198 were female**
+
+[paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
+
+[reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
 
 ![covariates info](C:\Users\zoumanli\Desktop\covariates.png)
 *****************************
