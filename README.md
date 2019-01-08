@@ -40,7 +40,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
  ./data_for_analysis/metadata
 
 **age sex BMI SBP DBP TG CHL HDL etc.**
-ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
+[metadata](ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml)
 ***********************************
 
 ### References:
