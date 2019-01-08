@@ -13,7 +13,7 @@
 
 <table><tr><td bgcolor=#D1EEEE>16s rRNA V2 region sequencing (454 pyrosequencing)</td></tr></table>
 
-<table><tr><td bgcolor=#D1EEEE>310 adult subjects from the Old Order Amish ：112 were male and 198 were female<table><tr><td bgcolor=#D1EEEE>
+<table><tr><td bgcolor=#D1EEEE>310 adult subjects from the Old Order Amish ：112 were male and 198 were female<table><tr>
 
 [paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
 
@@ -40,7 +40,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 (1) ./data_for_analysis/16Smetadata
 
 (2) Physiological indicators ： **age sex BMI SBP DBP TG CHL HDL etc.**
-ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
+*ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml*
 ***********************************
 
 ### References:
