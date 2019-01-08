@@ -29,7 +29,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ******************************
 
 ## Files for statistical analysis
-**files information**
+### files information
 
 ./data_for_analysis/
 
@@ -37,7 +37,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 
 (2) 175 out of all 310 samples otu profiles
 
-**covariates information**
+### covariates information
 
 (1) ./data_for_analysis/16Smetadata
 
