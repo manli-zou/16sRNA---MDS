@@ -24,6 +24,7 @@
 
 ## Sample processing
 Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
+![flowchart](https://github.com/manli-zou/16sRNA---MDS/blob/master/images/flowchart)
 ******************************
 
 ## Files for statistical analysis
