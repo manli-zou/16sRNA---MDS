@@ -18,8 +18,6 @@
 [paper related](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419686/#)
 
 [reads download website](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=phs000258)
-
-![covariates info](C:\Users\zoumanli\Desktop\covariates.png)
 *****************************
 
 ## Sample processing
