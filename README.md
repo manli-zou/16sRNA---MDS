@@ -28,7 +28,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 ## Files for statistical analysis
 ### files information
 
-./data_for_analysis/
+./data-profiles/
 
 (1) 175 out of all 310 samples(>25M,thus splitted)
 
@@ -36,7 +36,7 @@ Sample reads are processed using **mothur v.1.27.0** and **scripts** are showed
 
 ### covariates information
 
- ./data_for_analysis/metadata
+ ./data-profiles/metadata
 
 age sex BMI SBP etc.:
 ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000258/phs000258.v1.p1/pheno_variable_summaries/phs000258.v1.pht001242.v1.HMP_Gut_Obesity_Sample_Attributes.data_dict_2010_06_09.xml
